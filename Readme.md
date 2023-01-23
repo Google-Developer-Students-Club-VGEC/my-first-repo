@@ -2,3 +2,5 @@
 
 i also made my first repo:
 - Karan
+
+- Meet says hii to GDSC
